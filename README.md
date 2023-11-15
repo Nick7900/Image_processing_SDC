@@ -7,13 +7,13 @@ Welcome to the Image Processing Basics repository! This repository serves as a f
 2. How Colors are Processed in an Image:
    - Explore the intricacies of color processing in digital images, including color spaces and channels.
 3. Point Processing:
-  - Learn about point processing operations, which involve modifying individual pixels in an image.
+   - Learn about point processing operations, which involve modifying individual pixels in an image.
 4. Neighborhood Processing:
-  - Dive into neighborhood processing, where the manipulation of pixels is based on the values of their neighboring pixels.
+   - Dive into neighborhood processing, where the manipulation of pixels is based on the values of their neighboring pixels.
 5. Morphological Operations:
-  - Understand morphological operations such as dilation and erosion, crucial for shape analysis in image processing.
+   - Understand morphological operations such as dilation and erosion, crucial for shape analysis in image processing.
 6. Spatial Transformations:
-  -Explore spatial transformations to modify the geometric characteristics of images, including rotation, scaling, and translation.
+   - Explore spatial transformations to modify the geometric characteristics of images, including rotation, scaling, and translation.
 
 ## Contributions
 Contributions and feedback are welcome! If you have suggestions for improvement, spot errors, or want to add additional content, please feel free to open an issue or submit a pull request.
