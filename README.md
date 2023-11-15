@@ -23,6 +23,6 @@ Contributions and feedback are welcome! If you have suggestions for improvement,
 Happy learning and exploring the fascinating world of image processing!
 
 ## Contact
-If you have any questions or suggestions, you can reach Nick via e-mail at nylarsen@cfin.au.dk
+If you have any questions or suggestions, you can reach me via e-mail at nylarsen@cfin.au.dk
 
 #### Author: Nick Yao Larsen
