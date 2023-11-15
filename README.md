@@ -1,5 +1,7 @@
 # Image Processing Basics
-Welcome to the Image Processing Basics repository! This repository serves as a fundamental introduction to image processing, tailored for the Neuroscience and Neuroimaging program at the Sino Danish center for Aarhus University and University of Chinese Academy of Sciences. Whether you're a student diving into image processing for the first time or looking to refresh your knowledge, this repository covers key topics that are essential for understanding and applying image processing techniques.
+Welcome to the Image Processing Basics repository! This repository serves as a fundamental introduction to image processing, tailored for the Neuroscience and Neuroimaging program at the Sino Danish center for Aarhus University and University of Chinese Academy of Sciences. 
+
+Whether you're a student diving into image processing for the first time or looking to refresh your knowledge, this repository covers key topics that are essential for understanding and applying image processing techniques.
 
 ## Topics Covered
 1. Basic Introduction about Image Processing:
