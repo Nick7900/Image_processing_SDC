@@ -17,7 +17,7 @@ Whether you're a student diving into image processing for the first time or look
 4. Neighborhood Processing 🏡🎉:
    - Dive into neighborhood processing, where the manipulation of pixels is based on the values of their neighboring pixels.
 5. Morphological Operations 
-🏻🏻:
+🏻:
    - Understand morphological operations such as dilation and erosion, crucial for shape analysis in image processing.
 6. Spatial Transformations 🚀🌌:
    - Explore spatial transformations to modify the geometric characteristics of images, including rotation, scaling, and translation.
