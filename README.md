@@ -1,9 +1,7 @@
 # Image Processing Basics 📸🔍
 Welcome to the Image Processing Basics repository!  
 
-This repository stands as a solemn gateway to the foundational aspects of image processing, a crucial segment within the curriculum of Fundamental Biomedical Signal Processing (2023). 
-
-This repository serves as a fundamental introduction to image processing, and is part of the course Fundamental Biomedical Signal Processing (2023), tailored for the Neuroscience and Neuroimaging program at the Sino Danish center, Aarhus University and University of Chinese Academy of Sciences. 
+This repository serves as a fundamental introduction to image processing. It is part of the course Fundamental Biomedical Signal Processing (2023), tailored for the Neuroscience and Neuroimaging program at the Sino Danish center, Aarhus University and University of Chinese Academy of Sciences. 
 
 Whether you're a student diving into image processing for the first time or looking to refresh your knowledge, this repository covers key topics that are essential for understanding and applying image processing techniques.
 
